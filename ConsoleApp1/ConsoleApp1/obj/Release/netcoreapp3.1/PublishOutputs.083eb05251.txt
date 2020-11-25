@@ -1,0 +1,5 @@
+C:\Users\Suresh.RELYON\Desktop\sure\ConsoleApp1.exe
+C:\Users\Suresh.RELYON\Desktop\sure\ConsoleApp1.dll
+C:\Users\Suresh.RELYON\Desktop\sure\ConsoleApp1.deps.json
+C:\Users\Suresh.RELYON\Desktop\sure\ConsoleApp1.runtimeconfig.json
+C:\Users\Suresh.RELYON\Desktop\sure\ConsoleApp1.pdb
