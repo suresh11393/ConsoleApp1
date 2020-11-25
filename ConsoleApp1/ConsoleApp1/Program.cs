@@ -9,7 +9,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             //edit the folder location
-            string dirPath=@"D:\Products\SaralTDS12\SaralTDS\SaralTDS\Main\bin\Debug\Data\Userfiles\FY_2020_21\TDS";
+            string dirPath=@"D:\Test";
             processDirectory(dirPath);
             Console.ReadLine();
         }
