@@ -8,7 +8,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            processDirectory(@"D:\Products\SaralTDS12\SaralTDS\SaralTDS\Main\bin\Debug\Data\Userfiles\FY_2020_21\TDS");
+            //edit the folder location
+            string dirPath=@"D:\Products\SaralTDS12\SaralTDS\SaralTDS\Main\bin\Debug\Data\Userfiles\FY_2020_21\TDS";
+            processDirectory(dirPath);
             Console.ReadLine();
         }
         private static void processDirectory(string startLocation)
